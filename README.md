@@ -76,6 +76,8 @@
 
 ###
 
+<br clear="both">
+
 <img align="right" height="150" src="https://media.tenor.com/bQCHJwgCNuMAAAAM/kitten-cat.gif"  />
 
 ###
@@ -91,12 +93,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/smriti260402/smriti260402/output/snake.svg" alt="Snake animation" />
 
 ###
 
