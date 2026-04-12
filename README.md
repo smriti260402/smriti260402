@@ -94,27 +94,4 @@ Coursework: Data Structures, DBMS, OS, Computer Networks · Minor: Cyber Securit
 
 ---
 
-## GitHub stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=smriti260402&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smriti260402&layout=compact&theme=github_dark&hide_border=true&langs_count=6&card_width=320" alt="Top languages" />
-
-</div>
-
-<div align="center">
-
-![Profile views](https://komarev.com/ghpvc/?username=smriti260402&label=Profile%20views&color=008B8B&style=flat)
-
-</div>
-
----
-
-<div align="center">
-
-[Instagram](https://www.instagram.com/m_memo.ries?igsh=MWQ5ZnAwc3F6eXIxaQ%3D%3D)
-
-<sub>Keep this file in sync with your resume when roles or projects change.</sub>
-
 </div>
